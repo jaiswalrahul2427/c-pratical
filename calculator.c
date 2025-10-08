@@ -10,7 +10,7 @@ int main()
     printf("Enter the number:");
     scanf("%d %d",&a,&b);
     printf("Enter the operation number:");
-    scanf("%d",&c);
+    scanf("%d",&c);   
     switch (c)
     {
     case 1:
